@@ -1,4 +1,4 @@
-### Hi I'm Dinesh 👋 👩🏾‍💻
+### Hi I'm Dinesh 👋 👨‍💻
 ![Dinesh Chavan (2)](https://user-images.githubusercontent.com/46309253/88763523-e8d52500-d190-11ea-8fa2-f8f4d8c31a11.png)
 ## Find me around the web 🌎: <a href="https://github.com/Dinesh2510"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/46309253/88939503-39897280-d2a4-11ea-87f0-717765305b9d.jpg"></a>
 - Sometimes Writing Blogs on <a href="https://www.pixeldev.in/">PixelDev.in</a>  📹 ✍🏾
