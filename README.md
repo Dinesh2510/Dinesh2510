@@ -14,6 +14,7 @@ I'm a Android and Web Developer who is passionate about making open-source more 
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="22" height="22"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="22" height="22"/>
+    <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="playstore" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="22" height="22"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css" width="22" height="22"/>
