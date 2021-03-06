@@ -18,7 +18,7 @@ I'm a Android and Web Developer who is passionate about making open-source more 
  <img src="https://icongr.am/devicon/android-original.svg?size=147&color=currentColor" alt="android" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="25" height="25"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="25" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="30" height="30"/>
