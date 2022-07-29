@@ -2,7 +2,7 @@
 
 ![Dinesh Chavan (2)](https://user-images.githubusercontent.com/46309253/88763523-e8d52500-d190-11ea-8fa2-f8f4d8c31a11.png)
 
-I'm a Android and Web Developer who is passionate about making open-source more accessible, creating Android Application and websites to elevate people, and building community. Some technologies I enjoy working with include AngularJs, ionic (JavaScript, APIs using PHP) and Java.  My interest in the Android ecosystem led me to launch <a href="https://play.google.com/store/apps/dev?id=7204380673008740984&hl=en">Application On  Play Store 📱</a> Also now trying to create an Hybrid application which helps others.
+I'm a Android and Web Developer who is passionate about making open-source more accessible, creating Android Application and websites to elevate people, and building community.  My interest in the Android ecosystem led me to launch <a href="https://play.google.com/store/apps/dev?id=7204380673008740984&hl=en">Application On  Play Store 📱</a> .
 
 <hr>
 
@@ -28,9 +28,9 @@ I'm a Android and Web Developer who is passionate about making open-source more 
 <hr>
 
 ## Find me  🌎: <a href="https://github.com/Dinesh2510"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/46309253/88939503-39897280-d2a4-11ea-87f0-717765305b9d.jpg"></a>
-- Sometimes Writing Blogs on <a href="https://www.pixeldev.in/">PixelDev.in</a>  📹 ✍🏾
-- My Application On Play Store <a href="https://play.google.com/store/apps/dev?id=7204380673008740984&hl=en"> Play Store</a> 📱	
-- Sharing updates on <a href="https://www.linkedin.com/in/dinesh-chavan-631a93194">LinkedIn</a> 💼
+ - ✍🏾 Sometimes Writing Blogs on <a href="https://www.pixeldev.in/">PixelDev.in</a> 
+ - 📱 My Application On Play Store <a href="https://play.google.com/store/apps/dev?id=7204380673008740984&hl=en"> Play Store</a> 	
+ - 💼 Sharing updates on <a href="https://www.linkedin.com/in/dinesh-chavan-631a93194">LinkedIn</a> 
 
 <!--
 **Dinesh2510/Dinesh2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
