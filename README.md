@@ -9,50 +9,42 @@
 <hr>
 
 
-<h3 align="center">Languages and Tools:</h3>
+## 🛠️ Technologies & Tools
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![AdMob](https://img.shields.io/badge/AdMob-E37400?style=for-the-badge&logo=admob&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh2510&layout=compact&theme=radical)
 
 
-
-<p align="center">
-
-<img src="https://lh3.googleusercontent.com/4-toCoht-pqFO58Z4u-TFBsGfwuNOORZURXtLloPAEw_87kPa7TKHqFmm3Z7mMO_hi5QWrjpBGqtY9zgr06lOsx3KVezooiNyD8bzJwIHK2UC1bE-RE=h120" alt="java" width="50" height="50"/>
-
-<img src="https://icongr.am/devicon/java-original-wordmark.svg?size=121&color=currentColor" alt="java" width="50" height="50"/>
-
-<img src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" alt="kotlin" width="40" height="40"/>
-
-<img src="https://static.wixstatic.com/media/0d004d_740083a44b474110aba7cb0b328241df%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/0d004d_740083a44b474110aba7cb0b328241df%7Emv2.png" alt="kotlin" width="45" height="45" />
-
- <img src="https://firebase.google.com/static/images/integrations/flutter.png" alt="flutter" width="40" height="40"/>
-
-
- <img src="https://firebase.google.com/static/images/integrations/playstore.png" alt="playstore" width="40" height="40"/>
- 
-  <img src="https://firebase.google.com/static/images/integrations/ad-mob.svg" alt="admob" width="40" height="40"/>
- 
- 
-  <img src="https://firebase.google.com/static/images/integrations/android-studio.png" alt="AS" width="40" height="40"/> 
- 
-  <img src="https://www.gstatic.com/devrel-devsite/prod/vd906e53f099e628a2c079fcd932eaf4d8ec6809dab19b3d79a915c60d6afdd75/firebase/images/icon.svg" alt="firebase" width="40" height="40"/>
-  
-  
- <img src="https://icongr.am/devicon/android-original.svg?size=147&color=currentColor" alt="android" width="30" height="30"/>
- 
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30"/>
-    <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="55" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="55" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ms" width="30" height="30"/></p>
-  
-<hr>
-
-
-## Find me  🌎: <a href="https://github.com/Dinesh2510"><img align="left" width="180" height="180" src="https://github.com/user-attachments/assets/9efcb101-203a-413d-aabc-20c8d2408f48"></a>
- - ✍🏾 Sometimes Writing Blogs on <a href="https://www.pixeldev.in/">PixelDev.in</a> 
- - 📱 My Application On Play Store <a href="https://play.google.com/store/apps/dev?id=7204380673008740984&hl=en"> Play Store</a> 	
- - 💼 Sharing updates on <a href="https://www.linkedin.com/in/dinesh-chavan-631a93194">LinkedIn</a> 
+## 🌎 Connect with Me
+<div style="display: flex; align-items: center;">
+<!--   <img src="https://github.com/user-attachments/assets/9efcb101-203a-413d-aabc-20c8d2408f48" alt="Profile Image" width="150" height="150" style="margin-right: 20px; border-radius: 10px;"> -->
+  <div>
+    <ul style="list-style: none; padding: 0; margin: 0;">
+      <li>✍️ Writing blogs at <a href="https://www.pixeldev.in/" target="_blank">PixelDev.in</a></li>
+      <li>📱 Check out my apps on the <a href="https://play.google.com/store/apps/dev?id=7204380673008740984&hl=en" target="_blank">Google Play Store</a></li>
+      <li>💼 Stay updated via <a href="https://www.linkedin.com/in/dineshchavan2510/" target="_blank">LinkedIn</a></li>
+    </ul>
+  </div>
+</div>
 
 <!--
 **Dinesh2510/Dinesh2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
