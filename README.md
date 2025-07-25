@@ -29,11 +29,6 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh2510&layout=compact&theme=radical)
-
-
 ## 🌎 Connect with Me
 <div style="display: flex; align-items: center;">
 <!--   <img src="https://github.com/user-attachments/assets/9efcb101-203a-413d-aabc-20c8d2408f48" alt="Profile Image" width="150" height="150" style="margin-right: 20px; border-radius: 10px;"> -->
